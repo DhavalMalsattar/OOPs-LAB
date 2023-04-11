@@ -6,8 +6,7 @@ struct node {
 };
 struct LL{
     struct node *head;
-    head=(struct node*) malloc(sizeof(struct node));
-    head->next=0;
+   
     
 };
 void addlast(struct LL list,int data){
