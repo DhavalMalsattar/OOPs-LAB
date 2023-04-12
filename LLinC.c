@@ -124,14 +124,7 @@ int main()
     struct LL *list;
     list = (struct LL *)malloc(sizeof(struct LL));
 
-    // list.head->data = 10;
-    // list.head->next = NULL;
-    //  printf("%d", list.head->next);
-    // printf("%u\n", list->head);
-    // printf("%d\n", list->head->data);
-    // printf("%d", list->head->next->data);
-    // printf("Dhaval\n");
-    list->head = NULL;
+        list->head = NULL;
     list->size = 0;
 
     addlast(list, 2);
