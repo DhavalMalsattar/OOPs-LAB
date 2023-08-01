@@ -1,3 +1,5 @@
+package ArrayList;
+
 import java.util.*;
 
 public class Lab_6_1
@@ -26,6 +28,7 @@ public class Lab_6_1
 	    System.out.print(arrl);
 	    System.out.println();
 	    System.out.print("second last element is :"+arrl.get(len-2));
+	    
 	    
 	    
 	}

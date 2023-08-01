@@ -1,0 +1,4 @@
+Number of words : 12
+Number of Characters : 59
+Number of Spaces : 9
+Number of lines : 3

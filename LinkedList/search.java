@@ -1,3 +1,5 @@
+package LinkedList;
+
 import java.util.*;
 class node{
     int data;

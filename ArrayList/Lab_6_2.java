@@ -1,3 +1,4 @@
+package ArrayList;
 import java.util.*;
 public class Lab_6_2
 {

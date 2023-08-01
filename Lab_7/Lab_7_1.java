@@ -1,4 +1,7 @@
+package Lab_7;
+
 import java.util.*;
+
 
 class Product{
     String name;
